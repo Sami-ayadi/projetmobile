@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "199904518432",
+    "firebase_url": "https://projetmobile-afebb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projetmobile-afebb",
+    "storage_bucket": "projetmobile-afebb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199904518432:android:6cb6f741e17e5be06af745",
+        "android_client_info": {
+          "package_name": "com.example.projetmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ORepW0dd388i1736Wn9JcNV-J05PEVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
